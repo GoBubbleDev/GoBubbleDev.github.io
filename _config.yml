@@ -3,22 +3,22 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
+title: Robin Mollah | Software Engineer & Tech Enthusiast
+subtitle: "It's been decade since I am in love with coding and technology to make a future that doesn't sound like a reality."
+description: 'I am Robin from Bangladesh. From very early age, I was amused by the inventions of science and so many wonderful happening around the world to make our imaginations true.'
+keywords: programming, technology
+author: Robin Mollah
 language: en
-timezone: ''
+timezone: 'Asia/Dhaka'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
-permalink: :year/:month/:day/:title/
+url: https://gobubbledev.github.io
+permalink: :year/:month/:title/
 permalink_defaults:
 pretty_urls:
-  trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
-  trailing_html: true # Set to false to remove trailing '.html' from permalinks
+  trailing_index: false # Set to false to remove trailing 'index.html' from permalinks
+  trailing_html: false # Set to false to remove trailing '.html' from permalinks
 
 # Directory
 source_dir: source
@@ -40,17 +40,18 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
-syntax_highlighter: highlight.js
 highlight:
+  enable: true
   line_number: true
   auto_detect: false
   tab_replace: ''
   wrap: true
   hljs: false
 prismjs:
+  enable: false
   preprocess: true
   line_number: true
   tab_replace: ''
@@ -96,10 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-# theme: landscape
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme 
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
