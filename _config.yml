@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Robin Mollah | Software Engineer & Tech Enthusiast
-subtitle: "It's been decade since I am in love with coding and technology to make a future that doesn't sound like a reality."
-description: 'I am Robin from Bangladesh. From very early age, I was amused by the inventions of science and so many wonderful happening around the world to make our imaginations true.'
+title: GoBubble Blog
+subtitle: "Content moderation"
+description: 'Content moderation'
 keywords: programming, technology
 author: Robin Mollah
 language: en
@@ -13,7 +13,7 @@ timezone: 'Asia/Dhaka'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://gobubbledev.github.io
+url: https://blog.gobubble.tech
 permalink: :year/:month/:title/
 permalink_defaults:
 pretty_urls:
