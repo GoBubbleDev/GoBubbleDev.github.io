@@ -11,12 +11,13 @@ Freedom2Hear listens to the comments on your page and blocks the comments you ma
 
 ### How-tos
 
-#### How can I connect my Instagram account?
+#### How do I connect my Instagram account?
 
 Pre-requisite:
 
 1. You need an Instagram Creator or Business account.
-2. Your Instagram account must be connected to a public Facebook Page. [How to create a Facebook page(WIP)](https://google.com)
+2. You must have a Facebook page. [How to create a Facebook page](https://www.facebook.com/business/help/1199464373557428?id=418112142508425)
+3. Your Facebook Page should be connected to your Instagram account. [How to connect an Instagram account to a Facebook Page](https://blog.gobubble.tech/wip)
 
 #### How do I invite someone to my organization?
 
@@ -26,7 +27,7 @@ Pre-requisite:
 4. Click on the **Invite** button.
 5. Enter the *email address* of the Invitee.
 
-#### How to update a profile picture?
+#### How do I update the profile picture?
 
 1. Log in using your email address and password.
 2. From the navigation bar, click on **Profile details**.
@@ -34,7 +35,7 @@ Pre-requisite:
 4. Upload the profile picture.
 5. Click on the **Save** Button.
 
-#### How to update the name on the GoBubble platform?
+#### How do I update the name on the GoBubble platform?
 
 1. Log in using your email address and password.
 2. From the navigation bar, click on **Profile details**.
